@@ -1,3 +1,9 @@
+## Archived
+This repository is **archived** and no longer maintained.
+
+For a fully implemented and actively maintained kinetic straight‑skeleton implementation in Java, see:
+https://github.com/micycle1/grassfire4j
+
 # surferJ
 
 This is an ongoing Java port of [surfer2](https://github.com/cgalab/surfer2), a highly robust, triangulation-based straight skeleton algorithm – the most powerful implementation for straight skeletons out there.
